@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey 👋!
 
-<!--
-**luchetocsl/luchetocsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Luis Martinez, but everyone calls me [Lucheto](https://www.lucheto.com/).
 
-Here are some ideas to get you started:
+I am a **web & app designer** currently doing email HTML templates at work. I have a background in **UX/UI design, visual design, front-end development, and digital marketing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a vetted [Codeable](https://www.codeable.io/) WordPress expert.
+
+Before my current work, I was the owner of a small digital marketing agency in Mexico City.
+
+By the end of the year (2022), I plan to transition into a Web3 dev.
+
+I love new challenges.
+
+- 🌱 I'm currently going through Scrimba's front end career path
+- 👯 I'm looking to collaborate on more web3 projects
+- 🤔 I'm looking for help with Javascript and React
+- 💬 Ask me about UX/UI design
+- 📫 How to reach me: hola@lucheto.com
+- 😄 Pronouns: He/Him
